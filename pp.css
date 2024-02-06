@@ -1,0 +1,28 @@
+body{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: brown;
+    
+}
+
+.image_wrapper{
+text-align: center;
+}
+
+
+
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    color: beige;
+}
+p{
+    text-align: center;
+    color: beige;
+}
